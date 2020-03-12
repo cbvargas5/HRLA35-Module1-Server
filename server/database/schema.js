@@ -12,3 +12,8 @@ var listing = new Schema({
   city: String,
   images: [{ image: String }],
 });
+
+var languages = new Schema ({
+  language: String,
+  country: String
+});

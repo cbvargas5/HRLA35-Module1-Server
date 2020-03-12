@@ -182,3 +182,124 @@
 // 香港
 // 繁體中文
 // 台灣
+
+//CURRENCY
+// United States dollar
+// USD - $
+
+// Australian dollar
+// AUD - $
+
+// Brazilian real
+// BRL - R$
+
+// Bulgarian lev
+// BGN - лв
+
+// Canadian dollar
+// CAD - $
+
+// Chilean peso
+// CLP - $
+
+// Chinese yuan
+// CNY - ￥
+
+// Colombian peso
+// COP - $
+
+// Costa Rican colon
+// CRC - ₡
+
+// Croatian kuna
+// HRK - kn
+
+// Czech koruna
+// CZK - Kč
+
+// Danish krone
+// DKK - kr
+
+// Emirati dirham
+// AED - ﺩ.ﺇ
+
+// Euro
+// EUR - €
+
+// Hong Kong dollar
+// HKD - $
+
+// Hungarian forint
+// HUF - Ft
+
+// Indian rupee
+// INR - ₹
+
+// Israeli new shekel
+// ILS - ₪
+
+// Japanese yen
+// JPY - ¥
+
+// Malaysian ringgit
+// MYR - RM
+
+// Mexican peso
+// MXN - $
+
+// Moroccan dirham
+// MAD
+
+// New Taiwan dollar
+// TWD - $
+
+// New Zealand dollar
+// NZD - $
+
+// Norwegian krone
+// NOK - kr
+
+// Peruvian sol
+// PEN - S/
+
+// Philippine peso
+// PHP - ₱
+
+// Polish zloty
+// PLN - zł
+
+// Pound sterling
+// GBP - £
+
+// Romanian leu
+// RON - lei
+
+// Russian ruble
+// RUB - ₽
+
+// Saudi Arabian riyal
+// SAR - SR
+
+// Singapore dollar
+// SGD - $
+
+// South African rand
+// ZAR - R
+
+// South Korean won
+// KRW - ₩
+
+// Swedish krona
+// SEK - kr
+
+// Swiss franc
+// CHF
+
+// Thai baht
+// THB - ฿
+
+// Turkish lira
+// TRY - ₺
+
+// Uruguayan peso
+// UYU - $U
